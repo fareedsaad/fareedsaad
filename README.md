@@ -6,7 +6,7 @@
 <a href="https://github.com/fareedsaad"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
+- [MLSA Job Hunting Bootcamp](https://github.com/fareedsaad/fareedsaad/certificate.PNG) will started soon.
 <img align="right" alt="" src="fresh.jpg" width="270" />
 	
 ## My Python Development Course 
